@@ -9,4 +9,4 @@ SLRC is one of Sri Lanka's biggest robotics competitions, bringing together robo
 - **SLRC Facebook Page:** [UoM SLRC](https://facebook.com/UoM.SLRC)
 - **SLRC Website:** [ent.uom.lk/slrc](https://ent.uom.lk/slrc)
 - **LinkedIn:** [Electronic Club UoM](https://www.linkedin.com/company/electronic-club-uom/)
-- **Contact:** slrc@uom.lk
+- **Contact:** slrc@uom.lk | slrc.uom@gmail.com
